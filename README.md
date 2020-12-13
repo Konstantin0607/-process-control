@@ -1,16 +1,16 @@
-#запускам Vagrantfile
+#Р·Р°РїСѓСЃРєР°Рј Vagrantfile
 
           vagrant up
 
           vagrant ssh
 
 
-#в директории со скриптом
+#РІ РґРёСЂРµРєС‚РѕСЂРёРё СЃРѕ СЃРєСЂРёРїС‚РѕРј
 
           ./nice.sh
 
 
-#вывод
+#РІС‹РІРѕРґ
 
           1048576+0 records in
           1048576+0 records out
